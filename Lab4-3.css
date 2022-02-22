@@ -1,0 +1,19 @@
+#Obox{
+    background-color: orange;
+    height: 100px;
+}
+#Ibox{
+    background-color: yellow;
+    display: flex;
+    list-style: none;
+    
+}
+#Obox{
+    display: block;
+}
+#bt{
+    text-align: center;
+    background: rgb(71, 209, 219);
+    position: relative;
+    left: 50%;
+}

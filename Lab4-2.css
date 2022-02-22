@@ -1,0 +1,9 @@
+h3{
+    background-color: rgb(208, 90, 238);
+    border: 2px solid rgb(178, 18, 226);
+    display: block;
+}
+.hidden
+{
+    display: none;
+}

@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+}
+h1 {
+    text-align: center;
+}
+td {
+    width: 100px;
+    height: 100px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 3.5em;
+    text-align: center;
+}
+table {
+    margin: 5px auto;
+}
+.vertical {
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+.horizontal {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
